@@ -1,2 +1,2 @@
 hello
-this is on newtest for conflict
+this is new merge conflict on newtest
