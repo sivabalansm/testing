@@ -1,2 +1,2 @@
 hello
-this is on test branch
+this is a conflict test on master
